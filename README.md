@@ -27,4 +27,5 @@ February, 2019
 
 # Deployment information
 - <strong>Deployment Target (iOS version): </strong>12.1 and higher
-- <strong>Supported Devices: </strong>iPad
+- <strong>Supported Devices: </strong>Universal
+- <strong>Optimized for: </strong>iPhone
