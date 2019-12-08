@@ -5,7 +5,7 @@ iBeacon
 Hacking with Swift
 
 # Education supplier
-This iOS app is developed as a guided project in the iBook tutorial "Hacking with Swift" which forms part of the "Hacking with Swift" tutorial series, authored by Paul Hudson. 
+This iOS app project is from the iBook tutorial "Hacking with Swift" which forms part of the "Hacking with Swift" tutorial series, authored by Paul Hudson. 
 
 # Topics / milestones
 
