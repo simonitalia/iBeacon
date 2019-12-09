@@ -2,7 +2,7 @@
 iBeacon
 
 # Objective
-Make a location aware app. When a user comes in range of an iBeacon, trigger a message.
+A location aware app. When a user comes in range of an iBeacon, trigger a message.
 
 # Course
 Hacking with Swift
