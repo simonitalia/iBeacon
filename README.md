@@ -10,7 +10,7 @@ Hacking with Swift
 # Education supplier
 This iOS app project is from the iBook tutorial "Hacking with Swift" which forms part of the "Hacking with Swift" tutorial series, authored by Paul Hudson. 
 
-# Topics / milestones
+# Technologies
 
 - CLLocationManager
 
